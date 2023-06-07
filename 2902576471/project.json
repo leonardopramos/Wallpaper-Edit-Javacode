@@ -1,0 +1,26 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "[EN]\r\n- Wallpaper style Java code.\r\n- Created with html, css and javascript.\r\n- This code is on GitHub -> https://github.com/lukasotero/wallpaperJavaCode\r\n- All contributions to improve the code are welcome. Just do a pull request in Github.\r\n\r\n[ES]\r\n- Fondo de escritorio estilo código de Java.\r\n- Creado con html, css y javascript.\r\n- Este código está en GitHub -> https://github.com/lukasotero/wallpaperJavaCode\r\n- Todas las contribuciones para mejorar el código son bienvenidas. Sólo hacé un \"pull request\" en GitHub.\r\n",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 1"
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"tags" : [ "Technology" ],
+	"title" : "Java Code",
+	"type" : "web",
+	"version" : 1,
+	"visibility" : "public",
+	"workshopid" : "2902576471",
+	"workshopurl" : "steam://url/CommunityFilePage/2902576471"
+}
